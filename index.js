@@ -3,4 +3,4 @@ beforeEach(function () {
     dog.width = 0;
   
     dogs.push("Jazi", "Benny", "Rex");
-  });
+  }); 
